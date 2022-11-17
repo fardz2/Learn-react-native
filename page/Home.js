@@ -44,7 +44,7 @@ export default function Home() {
                     <MyText style={{ fontSize: 25 }}>
                         Hello, <MyText style={{ fontWeight: "bold" }}>Muhammad Faridz</MyText>
                     </MyText>
-                    <MyText>Have a nice day</MyText>
+                    <MyText>Hanya mencoba</MyText>
                 </View>
                 <View style={styles.section2}>
                     <View style={styles.task}>
